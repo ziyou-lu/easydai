@@ -1,0 +1,2670 @@
+---------------------------------------------------------------
+[ 2017-10-15T06:42:59+00:00 ] 0.0.0.0 117.136.46.193 POST /home/shixubing/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016309s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_shixubing` [ RunTime:0.017406s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_shixubing` (`name` , `phone`) VALUES ('张倩' , '13952412600') [ RunTime:0.002224s ]
+---------------------------------------------------------------
+[ 2017-10-15T14:43:20+08:00 ] 0.0.0.0 180.163.2.88 GET /home/shixubing/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-15T07:18:16+00:00 ] 0.0.0.0 122.192.15.225 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015042s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.016334s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002157s ]
+---------------------------------------------------------------
+[ 2017-10-15T07:22:01+00:00 ] 0.0.0.0 122.192.15.225 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007870s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.015674s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.001903s ]
+---------------------------------------------------------------
+[ 2017-10-15T07:22:16+00:00 ] 0.0.0.0 122.192.15.225 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016251s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.015228s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.001893s ]
+---------------------------------------------------------------
+[ 2017-10-15T07:34:35+00:00 ] 0.0.0.0 122.192.15.225 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016035s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.015828s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002877s ]
+---------------------------------------------------------------
+[ 2017-10-15T07:37:33+00:00 ] 0.0.0.0 117.136.46.193 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014950s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.016557s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('过节' , '13952412600') [ RunTime:0.001786s ]
+---------------------------------------------------------------
+[ 2017-10-15T15:37:43+08:00 ] 0.0.0.0 117.185.27.114 GET /home/guoyanping/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-15T15:37:45+08:00 ] 0.0.0.0 101.226.68.161 GET /home/guoyanping/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-15T15:42:02+08:00 ] 0.0.0.0 61.151.226.189 GET /home/guoyanping/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-15T07:54:35+00:00 ] 0.0.0.0 117.136.68.155 POST /home/shixubing/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013845s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_shixubing` [ RunTime:0.017257s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_shixubing` (`name` , `phone`) VALUES ('独孤' , '13285193427') [ RunTime:0.002516s ]
+---------------------------------------------------------------
+[ 2017-10-15T07:54:35+00:00 ] 0.0.0.0 117.185.27.103 POST /home/shixubing/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006001s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_shixubing` [ RunTime:0.015384s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_shixubing` (`name` , `phone`) VALUES ('独孤' , '13285193427') [ RunTime:0.001942s ]
+---------------------------------------------------------------
+[ 2017-10-15T15:54:46+08:00 ] 0.0.0.0 117.185.27.113 GET /home/shixubing/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-15T15:54:49+08:00 ] 0.0.0.0 101.226.99.197 GET /home/shixubing/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-15T19:18:44+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ error ] [8]未定义变量: appid
+---------------------------------------------------------------
+[ 2017-10-15T19:18:48+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ error ] [8]未定义变量: appid
+---------------------------------------------------------------
+[ 2017-10-15T19:19:03+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ error ] [8]未定义变量: appid
+---------------------------------------------------------------
+[ 2017-10-15T19:20:13+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.074861s][吞吐率：13.36req/s] [内存消耗：589.48kb] [文件加载：46]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=63',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: appid[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:305]
+---------------------------------------------------------------
+[ 2017-10-15T19:20:59+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.042064s][吞吐率：23.77req/s] [内存消耗：165.09kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=64; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Wechat\JSSDK' not found[E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php:12]
+---------------------------------------------------------------
+[ 2017-10-15T19:22:23+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.035948s][吞吐率：27.82req/s] [内存消耗：162.60kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=65',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:106]
+---------------------------------------------------------------
+[ 2017-10-15T19:35:52+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.086520s][吞吐率：11.56req/s] [内存消耗：161.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=66; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:106]
+---------------------------------------------------------------
+[ 2017-10-15T19:37:48+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.033862s][吞吐率：29.53req/s] [内存消耗：161.51kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=67; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Wechat\JSSDK' not found[E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php:12]
+---------------------------------------------------------------
+[ 2017-10-15T19:38:36+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.109447s][吞吐率：9.14req/s] [内存消耗：636.91kb] [文件加载：48]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=68',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: appid[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:305]
+---------------------------------------------------------------
+[ 2017-10-15T19:38:47+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.066371s][吞吐率：15.07req/s] [内存消耗：588.95kb] [文件加载：46]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=69; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: appid[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:305]
+---------------------------------------------------------------
+[ 2017-10-15T19:39:30+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.069826s][吞吐率：14.32req/s] [内存消耗：635.91kb] [文件加载：48]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=70; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: appid[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:305]
+---------------------------------------------------------------
+[ 2017-10-15T19:39:48+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.061840s][吞吐率：16.17req/s] [内存消耗：648.06kb] [文件加载：44]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=71; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T19:52:10+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.095547s][吞吐率：10.47req/s] [内存消耗：162.04kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=72; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Wechat\JSSDK' not found[E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php:13]
+---------------------------------------------------------------
+[ 2017-10-15T20:00:32+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.098309s][吞吐率：10.17req/s] [内存消耗：161.64kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=73',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:106]
+---------------------------------------------------------------
+[ 2017-10-15T20:04:07+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.087817s][吞吐率：11.39req/s] [内存消耗：161.64kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=74; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:106]
+---------------------------------------------------------------
+[ 2017-10-15T20:05:04+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.036132s][吞吐率：27.68req/s] [内存消耗：162.61kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=75; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:106]
+---------------------------------------------------------------
+[ 2017-10-15T20:07:22+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.041632s][吞吐率：24.02req/s] [内存消耗：161.04kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=76; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]file_get_contents(jsapi_ticket.php): failed to open stream: No such file or directory[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:106]
+---------------------------------------------------------------
+[ 2017-10-15T20:08:06+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.032642s][吞吐率：30.64req/s] [内存消耗：160.88kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=77; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]Trying to get property of non-object[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:50]
+---------------------------------------------------------------
+[ 2017-10-15T20:21:17+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.098245s][吞吐率：10.18req/s] [内存消耗：161.51kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=78; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]Trying to get property of non-object[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:50]
+---------------------------------------------------------------
+[ 2017-10-15T20:21:19+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.033312s][吞吐率：30.02req/s] [内存消耗：160.88kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=79; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]Trying to get property of non-object[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:50]
+---------------------------------------------------------------
+[ 2017-10-15T20:27:39+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.093260s][吞吐率：10.72req/s] [内存消耗：164.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=80; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:36:31+08:00 ] 0.0.0.0 101.226.102.126 GET /?from=timeline
+[ info ] easydai.site/?from=timeline [运行时间：0.092177s][吞吐率：10.85req/s] [内存消耗：164.94kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=timeline',
+  'x-forwarded-for' => '122.192.15.184',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043520 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/wxpic,image/sharpp,*/*;q=0.8',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'timeline',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:36:31+08:00 ] 0.0.0.0 140.207.54.187 GET /
+[ info ] easydai.site/ [运行时间：0.041770s][吞吐率：23.94req/s] [内存消耗：163.35kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+  'host' => 'easydai.site',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:36:35+08:00 ] 0.0.0.0 101.226.102.126 GET /?from=timeline
+[ info ] easydai.site/?from=timeline [运行时间：0.034189s][吞吐率：29.25req/s] [内存消耗：164.31kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=timeline',
+  'x-forwarded-for' => '122.192.15.184',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043520 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/wxpic,image/sharpp,*/*;q=0.8',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'timeline',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:36:39+08:00 ] 0.0.0.0 117.185.27.115 GET /?from=timeline
+[ info ] easydai.site/?from=timeline [运行时间：0.033945s][吞吐率：29.46req/s] [内存消耗：163.54kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=timeline',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.27.400 QQBrowser/9.0.2524.400',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'timeline',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:36:41+08:00 ] 0.0.0.0 117.144.246.77 GET /
+[ info ] easydai.site/ [运行时间：0.032830s][吞吐率：30.46req/s] [内存消耗：163.34kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+  'host' => 'easydai.site',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:36:42+08:00 ] 0.0.0.0 101.226.102.126 GET /?from=timeline
+[ info ] easydai.site/?from=timeline [运行时间：0.033510s][吞吐率：29.84req/s] [内存消耗：164.30kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=timeline',
+  'x-forwarded-for' => '122.192.15.184',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043520 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/wxpic,image/sharpp,*/*;q=0.8',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'timeline',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:41:14+08:00 ] 0.0.0.0 101.226.33.216 GET /?from=timeline
+[ info ] easydai.site/?from=timeline [运行时间：0.039883s][吞吐率：25.07req/s] [内存消耗：163.40kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=timeline',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27 MicroMessenger/6.5.5 NetType/WIFI Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'timeline',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method Wechat\JSSDK::getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:48:56+08:00 ] 0.0.0.0 122.192.15.225 GET /
+[ info ] easydai.site/ [运行时间：0.088990s][吞吐率：11.24req/s] [内存消耗：164.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=81',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function Wechat\getFile()[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:68]
+---------------------------------------------------------------
+[ 2017-10-15T20:59:24+08:00 ] 0.0.0.0 106.39.191.126 GET /home/guoyanping
+[ info ] easydai.site/home/guoyanping [运行时间：0.128361s][吞吐率：7.79req/s] [内存消耗：597.51kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping',
+  'x-forwarded-for' => '117.80.99.17',
+  'clientip' => '117.80.99.17',
+  'x-ucbrowser-ua' => 'dv(iPh8,1);pr(UCBrowser/11.6.1.1003);ov(9_3_3);ss(0x0);bt(UC);pm(0);bv(0);nm(0);im(0);nt(1);',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G34 UCBrowser/11.6.1.1003 Mobile  AliApp(TUnionSDK/0.1.20)',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=259200',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T21:40:53+08:00 ] 0.0.0.0 117.185.27.115 GET /home/shixubing?from=groupmessage
+[ info ] easydai.site/home/shixubing?from=groupmessage [运行时间：0.133281s][吞吐率：7.50req/s] [内存消耗：596.91kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'shixubing',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/shixubing?from=groupmessage',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; SM801 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) 			Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043015 Safari/537.36 V1_AND_SQ_6.6.9_482_YYB_D QQ/6.6.9.3060 NetType/2G WebP/0.3.0 Pixel/1080',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'groupmessage',
+)
+[ info ] [ RUN ] app\home\controller\Shixubing->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Shixubing.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\shixubing\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T21:50:45+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.099821s][吞吐率：10.02req/s] [内存消耗：161.80kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=82',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]curl_setopt(): CURLOPT_SSL_VERIFYHOST no longer accepts the value 1, value 2 will be used instead[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:96]
+---------------------------------------------------------------
+[ 2017-10-15T21:53:43+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：1.275310s][吞吐率：0.78req/s] [内存消耗：161.66kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=83; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]Undefined property: stdClass::$access_token[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:77]
+---------------------------------------------------------------
+[ 2017-10-15T21:57:24+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.190144s][吞吐率：5.26req/s] [内存消耗：161.05kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=84; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:79]
+---------------------------------------------------------------
+[ 2017-10-15T21:58:09+08:00 ] 0.0.0.0 101.226.102.147 GET /home/guoyanping
+[ info ] easydai.site/home/guoyanping [运行时间：0.079608s][吞吐率：12.56req/s] [内存消耗：598.16kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping',
+  'x-forwarded-for' => '122.192.15.124',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; vivo X7 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043520 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/wxpic,image/sharpp,*/*;q=0.8',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T21:58:09+08:00 ] 0.0.0.0 117.185.27.144 GET /
+[ info ] easydai.site/ [运行时间：0.374616s][吞吐率：2.67req/s] [内存消耗：160.37kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+  'host' => 'easydai.site',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:79]
+---------------------------------------------------------------
+[ 2017-10-15T21:58:10+08:00 ] 0.0.0.0 101.226.125.119 GET /
+[ info ] easydai.site/ [运行时间：1.230138s][吞吐率：0.81req/s] [内存消耗：160.37kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+  'host' => 'easydai.site',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:79]
+---------------------------------------------------------------
+[ 2017-10-15T22:04:53+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.096814s][吞吐率：10.33req/s] [内存消耗：167.73kb] [文件加载：33]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=85; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected '{'[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:71]
+---------------------------------------------------------------
+[ 2017-10-15T22:06:57+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：1.272160s][吞吐率：0.79req/s] [内存消耗：162.60kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=86',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:84]
+---------------------------------------------------------------
+[ 2017-10-15T22:09:12+08:00 ] 0.0.0.0 121.239.214.203 GET /home/shixubing?from=groupmessage
+[ info ] easydai.site/home/shixubing?from=groupmessage [运行时间：0.087765s][吞吐率：11.39req/s] [内存消耗：598.68kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'shixubing',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/shixubing?from=groupmessage',
+  'qzhw-wnshtml-loadtime1' => '1508076551636',
+  'qzhw-request-key' => 'C2BA3409-45FE-47AD-B0F0-C5D8996A0E24',
+  'qzhw-wnshtml-webviewsupport' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 QQ/7.1.5.428 V1_IPH_SQ_7.1.5_1_APP_A Pixel/640 Core/UIWebView NetType/WIFI QBWebViewType/1',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'groupmessage',
+)
+[ info ] [ RUN ] app\home\controller\Shixubing->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Shixubing.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\shixubing\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T22:10:52+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.193341s][吞吐率：5.17req/s] [内存消耗：162.60kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=87; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:85]
+---------------------------------------------------------------
+[ 2017-10-15T22:11:34+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.153988s][吞吐率：6.49req/s] [内存消耗：161.07kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=88; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:85]
+---------------------------------------------------------------
+[ 2017-10-15T22:12:15+08:00 ] 0.0.0.0 106.120.161.68 GET /
+[ info ] easydai.site/ [运行时间：0.148724s][吞吐率：6.72req/s] [内存消耗：160.04kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+  'referer' => 'http://easydai.site/',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'identity',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:85]
+---------------------------------------------------------------
+[ 2017-10-15T22:12:41+08:00 ] 0.0.0.0 220.181.132.177 GET /
+[ info ] easydai.site/ [运行时间：0.143331s][吞吐率：6.98req/s] [内存消耗：160.49kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+  'referer' => 'http://easydai.site/',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:85]
+---------------------------------------------------------------
+[ 2017-10-15T22:13:11+08:00 ] 0.0.0.0 171.13.14.145 GET /
+[ info ] easydai.site/ [运行时间：1.312109s][吞吐率：0.76req/s] [内存消耗：161.66kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'x-forwarded-for' => 'unknown',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+  'referer' => 'http://easydai.site/',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=259200',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:85]
+---------------------------------------------------------------
+[ 2017-10-15T22:13:38+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.035462s][吞吐率：28.20req/s] [内存消耗：162.93kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=89; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:74]
+---------------------------------------------------------------
+[ 2017-10-15T22:14:17+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.037059s][吞吐率：26.98req/s] [内存消耗：162.91kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=90; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:74]
+---------------------------------------------------------------
+[ 2017-10-15T22:16:10+08:00 ] 0.0.0.0 106.39.191.161 GET /home/guoyanping
+[ info ] easydai.site/home/guoyanping [运行时间：0.086117s][吞吐率：11.61req/s] [内存消耗：598.55kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping',
+  'x-forwarded-for' => '117.80.99.17',
+  'clientip' => '117.80.99.17',
+  'x-ucbrowser-ua' => 'dv(iPh8,1);pr(UCBrowser/11.6.1.1003);ov(9_3_3);ss(0x0);bt(UC);pm(0);bv(0);nm(0);im(0);nt(2);',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X; zh-CN) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/13G34 UCBrowser/11.6.1.1003 Mobile  AliApp(TUnionSDK/0.1.20)',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip,deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=259200',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T22:16:11+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.034020s][吞吐率：29.39req/s] [内存消耗：165.80kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=91; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Wechat\StdClass' not found[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:71]
+---------------------------------------------------------------
+[ 2017-10-15T22:17:08+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.033733s][吞吐率：29.64req/s] [内存消耗：165.80kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=92',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Wechat\StdClass' not found[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:71]
+---------------------------------------------------------------
+[ 2017-10-15T22:18:31+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.316319s][吞吐率：3.16req/s] [内存消耗：162.98kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=93',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:58]
+---------------------------------------------------------------
+[ 2017-10-15T22:21:05+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.042329s][吞吐率：23.62req/s] [内存消耗：166.88kb] [文件加载：33]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=94; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected 'test' (T_STRING), expecting function (T_FUNCTION)[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:120]
+---------------------------------------------------------------
+[ 2017-10-15T22:22:11+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.030948s][吞吐率：32.31req/s] [内存消耗：165.05kb] [文件加载：33]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=95',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected 'class' (T_CLASS)[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:4]
+---------------------------------------------------------------
+[ 2017-10-15T22:22:37+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.034764s][吞吐率：28.77req/s] [内存消耗：177.58kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=96',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [64]main(): Failed opening required 'test.php' (include_path='.;C:\php\pear')[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:3]
+---------------------------------------------------------------
+[ 2017-10-15T22:24:06+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：1.292903s][吞吐率：0.77req/s] [内存消耗：161.65kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=97',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:24:21+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.132749s][吞吐率：7.53req/s] [内存消耗：161.06kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=98; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:24:24+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.142044s][吞吐率：7.04req/s] [内存消耗：161.06kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=99; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:24:35+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.144508s][吞吐率：6.92req/s] [内存消耗：161.06kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=100; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:25:22+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.159065s][吞吐率：6.29req/s] [内存消耗：162.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=101; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:26:00+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.137584s][吞吐率：7.27req/s] [内存消耗：162.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=102; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:26:16+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.160656s][吞吐率：6.22req/s] [内存消耗：162.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=103; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:26:20+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.131210s][吞吐率：7.62req/s] [内存消耗：161.06kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=104; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:26:34+08:00 ] 0.0.0.0 117.136.68.155 GET /home/shixubing?from=groupmessage
+[ info ] easydai.site/home/shixubing?from=groupmessage [运行时间：0.077509s][吞吐率：12.90req/s] [内存消耗：598.45kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'shixubing',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/shixubing?from=groupmessage',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.2; PE-TL00M Build/HuaweiPE-TL00M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043508 Safari/537.36 V1_AND_SQ_7.2.0_730_YYB_D QQ/7.2.0.3270 NetType/4G WebP/0.3.0 Pixel/1080',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/sharpp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'groupmessage',
+)
+[ info ] [ RUN ] app\home\controller\Shixubing->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Shixubing.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\shixubing\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T22:28:10+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.162781s][吞吐率：6.14req/s] [内存消耗：162.65kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=105; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:30:55+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.197350s][吞吐率：5.07req/s] [内存消耗：160.82kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=106; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [2]Creating default object from empty value[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:31:35+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.132230s][吞吐率：7.56req/s] [内存消耗：166.88kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=107; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Wechat\stdClass' not found[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:59]
+---------------------------------------------------------------
+[ 2017-10-15T22:31:54+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.146735s][吞吐率：6.82req/s] [内存消耗：170.74kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=108',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected end of file, expecting function (T_FUNCTION)[E:\wwwroot\host707202214\wwwroot\extend\wechat\test.php:13]
+---------------------------------------------------------------
+[ 2017-10-15T22:32:55+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.136764s][吞吐率：7.31req/s] [内存消耗：163.77kb] [文件加载：35]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; thinkphp_show_page_trace=0|0; monitor_count=109',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: nonceStr×tamp[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:24]
+---------------------------------------------------------------
+[ 2017-10-15T22:33:29+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.089969s][吞吐率：11.11req/s] [内存消耗：161.40kb] [文件加载：34]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=110; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: nonceStr×tamp[E:\wwwroot\host707202214\wwwroot\extend\wechat\JSSDK.php:24]
+---------------------------------------------------------------
+[ 2017-10-15T22:34:42+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.101700s][吞吐率：9.83req/s] [内存消耗：640.58kb] [文件加载：49]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=111; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: appid[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:306]
+---------------------------------------------------------------
+[ 2017-10-15T22:36:51+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.077478s][吞吐率：12.91req/s] [内存消耗：592.46kb] [文件加载：47]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=112; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: appid[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:306]
+---------------------------------------------------------------
+[ 2017-10-15T22:37:17+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.071107s][吞吐率：14.06req/s] [内存消耗：639.55kb] [文件加载：49]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=113; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: signPackage[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:307]
+---------------------------------------------------------------
+[ 2017-10-15T22:45:54+08:00 ] 0.0.0.0 180.99.81.199 GET /home/shixubing?from=groupmessage
+[ info ] easydai.site/home/shixubing?from=groupmessage [运行时间：0.145227s][吞吐率：6.89req/s] [内存消耗：597.90kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'shixubing',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/shixubing?from=groupmessage',
+  'qzhw-wnshtml-loadtime1' => '1508078753472',
+  'qzhw-request-key' => '39BD75FD-4FD3-4DC8-B1B7-D382DC9FECB0',
+  'upgrade-insecure-requests' => '1',
+  'qzhw-wnshtml-webviewsupport' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Mobile/14F89 QQ/7.2.0.439 V1_IPH_SQ_7.2.0_1_APP_A Pixel/1080 Core/UIWebView NetType/4G QBWebViewType/1',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'groupmessage',
+)
+[ info ] [ RUN ] app\home\controller\Shixubing->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Shixubing.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\shixubing\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:00:19+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.144461s][吞吐率：6.92req/s] [内存消耗：593.04kb] [文件加载：47]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=114; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+  0 => 'signPackage',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: url[E:\wwwroot\host707202214\wwwroot\runtime\temp\f8cd5150a91638ced5ca3f8a1bb713c1.php:318]
+---------------------------------------------------------------
+[ 2017-10-15T23:07:52+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.144732s][吞吐率：6.91req/s] [内存消耗：607.52kb] [文件加载：43]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=115; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+  0 => 'signPackage',
+  1 => 'url',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:11+08:00 ] 0.0.0.0 117.83.32.27 GET /home/guoyanping
+[ info ] easydai.site/home/guoyanping [运行时间：0.059122s][吞吐率：16.91req/s] [内存消耗：597.24kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping',
+  'dnt' => '1',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A402 Safari/604.1',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:12+08:00 ] 0.0.0.0 117.83.32.27 GET /
+[ info ] easydai.site/ [运行时间：0.057829s][吞吐率：17.29req/s] [内存消耗：605.90kb] [文件加载：43]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A402 MicroMessenger/6.5.18 NetType/WIFI Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+  0 => 'signPackage',
+  1 => 'url',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:35+08:00 ] 0.0.0.0 117.83.32.27 GET /home/guoyanping
+[ info ] easydai.site/home/guoyanping [运行时间：0.056625s][吞吐率：17.66req/s] [内存消耗：595.97kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping',
+  'dnt' => '1',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A402 Safari/604.1',
+  'host' => 'easydai.site',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:37+08:00 ] 0.0.0.0 117.83.32.27 GET /apple-touch-icon-120x120-precomposed.png
+[ info ] easydai.site/apple-touch-icon-120x120-precomposed.png [运行时间：0.035150s][吞吐率：28.45req/s] [内存消耗：142.85kb] [文件加载：31]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'apple-touch-icon-120x120-precomposed.png',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/apple-touch-icon-120x120-precomposed.png',
+  'user-agent' => 'MobileSafari/604.1 CFNetwork/887 Darwin/17.0.0',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:37+08:00 ] 0.0.0.0 117.83.32.27 GET /apple-touch-icon-120x120.png
+[ info ] easydai.site/apple-touch-icon-120x120.png [运行时间：0.029136s][吞吐率：34.32req/s] [内存消耗：141.15kb] [文件加载：31]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'apple-touch-icon-120x120.png',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/apple-touch-icon-120x120.png',
+  'user-agent' => 'MobileSafari/604.1 CFNetwork/887 Darwin/17.0.0',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:37+08:00 ] 0.0.0.0 117.83.32.27 GET /apple-touch-icon.png
+[ info ] easydai.site/apple-touch-icon.png [运行时间：0.028961s][吞吐率：34.53req/s] [内存消耗：141.05kb] [文件加载：31]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'apple-touch-icon.png',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/apple-touch-icon.png',
+  'user-agent' => 'MobileSafari/604.1 CFNetwork/887 Darwin/17.0.0',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:08:37+08:00 ] 0.0.0.0 117.83.32.27 GET /apple-touch-icon.png
+[ info ] easydai.site/apple-touch-icon.png [运行时间：0.027612s][吞吐率：36.22req/s] [内存消耗：141.05kb] [文件加载：31]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'apple-touch-icon.png',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/apple-touch-icon.png',
+  'user-agent' => 'MobileSafari/604.1 CFNetwork/887 Darwin/17.0.0',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:09:28+08:00 ] 0.0.0.0 58.217.178.126 GET /home/shixubing?from=groupmessage
+[ info ] easydai.site/home/shixubing?from=groupmessage [运行时间：0.061051s][吞吐率：16.38req/s] [内存消耗：598.55kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'shixubing',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/shixubing?from=groupmessage',
+  'qzhw-wnshtml-loadtime1' => '1508080168192',
+  'qzhw-request-key' => '1C6C6630-490C-4E54-BC77-0C6560A3EB05',
+  'upgrade-insecure-requests' => '1',
+  'qzhw-wnshtml-webviewsupport' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_3 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A432 QQ/7.2.0.439 V1_IPH_SQ_7.2.0_1_APP_A Pixel/1080 Core/UIWebView NetType/WIFI QBWebViewType/1',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'groupmessage',
+)
+[ info ] [ RUN ] app\home\controller\Shixubing->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Shixubing.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\shixubing\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:09:29+08:00 ] 0.0.0.0 117.83.32.27 GET /home/guoyanping?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/home/guoyanping?from=singlemessage&isappinstalled=0 [运行时间：0.056541s][吞吐率：17.69req/s] [内存消耗：596.13kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/WIFI Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:09:38+08:00 ] 0.0.0.0 117.83.32.27 GET /home/guoyanping?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/home/guoyanping?from=singlemessage&isappinstalled=0 [运行时间：0.055141s][吞吐率：18.14req/s] [内存消耗：596.65kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping?from=singlemessage&isappinstalled=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Mobile/15A402 MicroMessenger/6.5.18 NetType/WIFI Language/zh_CN',
+  'host' => 'easydai.site',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:09:46+08:00 ] 0.0.0.0 117.83.32.27 GET /home/guoyanping?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/home/guoyanping?from=singlemessage&isappinstalled=0 [运行时间：0.057355s][吞吐率：17.44req/s] [内存消耗：596.38kb] [文件加载：42]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'guoyanping',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/guoyanping?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/WIFI Language/zh_CN',
+  'host' => 'easydai.site',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Guoyanping->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Guoyanping.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\guoyanping\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-15T23:35:23+08:00 ] 0.0.0.0 117.83.32.27 GET /home/index.html
+[ error ] [8]Array to string conversion

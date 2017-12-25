@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 1px;
+    border: 1px solid #e7e7e7;
+}
+
+@media (min-width: 768px){
+	.navbar-nav {
+    		float: left;
+    		margin: 0;
+    		margin-left: 30px;
+	}
+	
+	.navbar-nav>li {
+    		float: left;
+    		margin-left: 10px;
+	}
+}
+
+
+.form-group {
+    margin-bottom: 0px;
+}

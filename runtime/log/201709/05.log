@@ -1,0 +1,456 @@
+---------------------------------------------------------------
+[ 2017-09-05T20:16:43+08:00 ] 47.90.41.40 58.210.137.194 POST /admin/index/login.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.084559s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_admin` [ RunTime:0.003825s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_admin` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.003201s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_action` [ RunTime:0.003317s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_action` WHERE  `name` = 'user_login' LIMIT 1 [ RunTime:0.003001s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_cache` [ RunTime:0.003423s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_cache` WHERE  `key` = 'sys_active_user_list' ORDER BY `id`  DESC [ RunTime:0.003129s ]
+[ sql ] [ SQL ] SELECT `username` FROM `szdk_admin` WHERE  `userid` = 1 LIMIT 1 [ RunTime:0.002990s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_action_log` [ RunTime:0.003462s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_action_log` (`action_id` , `user_id` , `action_ip` , `model` , `record_id` , `create_time` , `remark`) VALUES (1 , 1 , 986876354 , 'member' , 1 , 1504613803 , 'admin在2017-09-05 20:16登录了后台') [ RunTime:0.003185s ]
+[ sql ] [ SQL ] UPDATE `szdk_admin`  SET `last_login_time`=1504613803,`last_login_ip`=986876354  WHERE  `userid` = 1 [ RunTime:0.003094s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:44+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/index/index.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006570s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_menu` [ RunTime:0.003626s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 0  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003095s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 26  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003691s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 41  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003170s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 42  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003033s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 1  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003171s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 10  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003220s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 5  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003476s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 9  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003483s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 19  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003304s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 15  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003087s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 33  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003197s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 6  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003241s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 12  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003281s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 16  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003364s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 17  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003131s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 18  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003187s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 2  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003231s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 34  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003388s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 35  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003082s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 36  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003102s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_menu` WHERE  `parentid` = 37  AND `status` = 1 ORDER BY listorder ASC,id ASC [ RunTime:0.003183s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_auth_group` [ RunTime:0.003761s ]
+[ sql ] [ SQL ] SELECT `title` FROM `szdk_auth_group` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.003229s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_admin_panel` [ RunTime:0.003745s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_admin_panel` WHERE  `userid` = 1 [ RunTime:0.003329s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:45+08:00 ] 47.90.41.40 58.210.137.194 GET /Admin/customer/index/p/1/menuid/42.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007539s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004642s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.004171s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003957s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:48+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006609s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003685s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003257s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003275s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:52+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/38.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007305s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003898s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 38 [ RunTime:0.003342s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:53+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007181s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003705s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003398s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003444s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:55+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/39.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006254s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003530s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 39 [ RunTime:0.003151s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:56+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006630s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003437s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003077s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003006s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:57+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/40.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005567s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002592s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 40 [ RunTime:0.001989s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:16:58+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005601s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002921s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.002945s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002593s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:00+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/41.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008132s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.006123s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 41 [ RunTime:0.004306s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:01+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006975s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004348s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003674s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003968s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:02+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/42.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008042s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004365s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 42 [ RunTime:0.003864s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:03+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007692s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004319s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.004284s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004040s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:05+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/43.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007965s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004497s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 43 [ RunTime:0.003879s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:06+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007087s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004477s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003761s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003996s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:08+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/44.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006390s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003466s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 44 [ RunTime:0.003018s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:09+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008600s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.005623s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.004545s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.005546s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:11+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/45.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007508s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004299s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 45 [ RunTime:0.004126s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:12+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008044s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.005903s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.004006s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004097s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:15+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/46.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004965s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003153s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 46 [ RunTime:0.002139s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:16+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006380s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003555s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003866s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003121s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:18+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/47.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006633s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003604s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 47 [ RunTime:0.003769s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:19+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006677s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003693s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003692s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004327s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:20+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/48.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004911s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002682s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 48 [ RunTime:0.003148s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:21+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005799s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004290s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003006s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002781s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:23+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/49.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006285s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003227s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 49 [ RunTime:0.002759s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:24+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005323s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002764s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.002232s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002135s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:26+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/50.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005306s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002822s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 50 [ RunTime:0.002294s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:27+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006870s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.005129s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.003331s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003501s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:29+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/51.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004980s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002950s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 51 [ RunTime:0.002323s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:29+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=2
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008287s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.005063s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 30,30 [ RunTime:0.004541s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.005187s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:31+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007577s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004280s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.004051s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003936s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:34+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/7.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007803s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003839s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 7 [ RunTime:0.003381s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:34+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007351s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004281s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003871s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004000s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:36+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/8.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007186s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003855s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 8 [ RunTime:0.003094s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:36+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006877s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004082s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003417s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003928s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:38+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/9.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005617s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002853s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 9 [ RunTime:0.002135s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:39+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008062s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004281s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003888s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004274s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:40+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/10.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005826s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003300s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 10 [ RunTime:0.002545s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:41+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005057s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002644s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.002777s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002574s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:43+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/12.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007145s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004011s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 12 [ RunTime:0.003421s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:43+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006525s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003967s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003760s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003688s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:46+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/13.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006243s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003114s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 13 [ RunTime:0.002534s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:46+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008436s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.005195s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.004559s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004580s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:48+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/14.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006856s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003930s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 14 [ RunTime:0.003780s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:48+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006230s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003812s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003223s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003175s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:51+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/15.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005158s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002642s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 15 [ RunTime:0.002124s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:52+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006489s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003757s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003257s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003214s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:53+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/16.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006105s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003313s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 16 [ RunTime:0.002821s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:54+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006824s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003919s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.004169s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003589s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:56+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/17.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008382s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004751s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 17 [ RunTime:0.004974s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:56+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005691s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002796s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.002766s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002329s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:58+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/18.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005143s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002631s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 18 [ RunTime:0.002479s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:17:58+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006614s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003768s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003440s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003584s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:00+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/19.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005389s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002797s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 19 [ RunTime:0.002416s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:01+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006252s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003751s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003428s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002822s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:03+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/20.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007198s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004188s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 20 [ RunTime:0.003852s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:03+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005935s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003428s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003048s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003341s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:06+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/21.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007432s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004203s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 21 [ RunTime:0.004229s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:06+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006405s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003900s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003058s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002651s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:08+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/22.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008445s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004804s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 22 [ RunTime:0.004311s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:09+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005237s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003008s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.002409s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002495s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:11+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/23.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007425s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004044s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 23 [ RunTime:0.003769s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:12+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006981s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003490s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003385s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004522s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:13+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/24.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006164s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003449s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 24 [ RunTime:0.002858s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:14+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008348s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.005202s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.004310s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003989s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:16+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/25.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008171s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004550s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 25 [ RunTime:0.004044s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:16+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005823s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003225s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.002764s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002962s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:18+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/26.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007419s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004417s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 26 [ RunTime:0.003933s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:19+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006039s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003415s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003032s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003003s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:20+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/27.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006381s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004029s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 27 [ RunTime:0.003823s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:21+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006965s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004264s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003860s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.004017s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:23+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/28.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006410s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003668s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 28 [ RunTime:0.003186s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:23+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012111s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003925s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.003357s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.003150s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:25+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/delete/id/29.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005182s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002971s ]
+[ sql ] [ SQL ] DELETE FROM `szdk_customer`    WHERE  `id` = 29 [ RunTime:0.002726s ]
+---------------------------------------------------------------
+[ 2017-09-05T20:18:26+08:00 ] 47.90.41.40 58.210.137.194 GET /admin/customer/index.html?p=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005113s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002647s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`  DESC LIMIT 0,30 [ RunTime:0.002470s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` ORDER BY `update_time`,`id`  DESC [ RunTime:0.002385s ]

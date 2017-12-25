@@ -1,0 +1,76 @@
+{extend name="public:layout" /}
+{block name="content"}
+<div class="page">
+  <div class="fixed-bar">
+    <div class="item-title">
+      <div class="subject">
+        <h3>权限设置</h3>
+        <h5>管理中心操作权限及分组设置</h5>
+      </div>
+    </div>
+  </div>
+    <table class="flex-table">
+      <thead>
+        <tr>
+          <th width="24"  align="center" class="sign"><i class="ico-check"></i></th>
+          <th width="150" align="center" class="handle">操作</th>
+          <th width="150" align="center">权限组</th>
+          <th width="250" align="center">描述</th>
+          <th width="150" align="center">状态</th>
+          <th width="300" align="center">授权</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+      {volist name="_list" id="vo"}
+        <tr class="hover">
+          <td class="sign"><i class="ico-check"></i></td>
+          <td class="handle">
+          <span class="btn"><em><i class="icon iconfont icon-shezhi"></i>设置<i class="arrow"></i></em>
+            <ul>
+                <li><a href="{:url('AuthManager/editgroup?id='.$vo['id'])}">编辑</a></li>
+                <li><a href="{:url('AuthManager/deletegroup?id='.$vo['id'])}">删除</a></li>
+            </ul>
+          </span>
+          </td>
+          <td>{$vo.title}</td>
+          <td>{:mb_strimwidth($vo['description'],0,60,"...","utf-8")}</td>
+          <td>
+          {eq name="vo.status" value="1"}
+          <span class="on"><i class="fa fa-toggle-on"></i>{$vo['status_text']}</span>
+          {else/}
+          <span class="off"><i class="fa fa-toggle-off"></i>{$vo['status_text']}</span>
+          {/eq}
+          </td>
+          <td>
+              <a class="btn blue" href="{:url('AuthManager/access?'.'&group_id='.$vo['id'])}"><i class="icon iconfont icon-fangwen"></i>访问授权</a>
+              <a class="btn blue" href=""><i class="icon iconfont icon-fenlei"></i>分类授权</a>
+              <a class="btn blue" href=""><i class="icon iconfont icon-chengyuan"></i>成员授权</a>
+          </td>
+          <td></td>
+        </tr>
+      {/volist}
+      </tbody>
+    </table>
+</div>
+<script>
+$('.flex-table').flexigrid({
+	height:'auto',// 高度自动
+	usepager: false,// 不翻页
+	striped: true,// 使用斑马线
+	resizable: false,// 不调节大小
+	reload: false,// 不使用刷新
+	columnControl: false,// 不使用列控制
+	title: '权限组列表',
+	buttons : [
+               {display: '<i class="icon iconfont icon-quanxian"></i>添加权限组', name : 'add', bclass : 'add', onpress : fg_operation }
+           ]
+	});
+
+function fg_operation(name, grid) {
+    if (name == 'add') {
+        window.location.href = '{:url("AuthManager/createGroup")}';
+    }
+}
+</script>
+{/block}

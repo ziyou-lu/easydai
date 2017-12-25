@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS `szdk_customer`;
+CREATE TABLE `szdk_customer` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键',
+  `name` char(30) NOT NULL DEFAULT '' COMMENT '客户名',
+  `phone` char(80) NOT NULL DEFAULT '' COMMENT '客户电话',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=12 DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC COMMENT='客户表';

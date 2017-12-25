@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2017-10-12T01:55:44+00:00 ] 0.0.0.0 117.136.45.45 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009394s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.017792s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('王允要' , '15695125316') [ RunTime:0.002267s ]
+---------------------------------------------------------------
+[ 2017-10-12T01:56:19+00:00 ] 0.0.0.0 101.226.102.119 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014875s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.015997s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('独孤求败' , '15195628397') [ RunTime:0.001912s ]

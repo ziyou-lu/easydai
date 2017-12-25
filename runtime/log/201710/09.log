@@ -1,0 +1,788 @@
+---------------------------------------------------------------
+[ 2017-10-09T08:13:06+08:00 ] 47.90.41.40 173.234.234.201 HEAD /
+[ info ] wedai.top/ [运行时间：0.033516s][吞吐率：29.84req/s] [内存消耗：2,648.20kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'host' => 'wedai.top',
+  'referer' => 'http://uptime-alpha.net/wedai.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:03:14+08:00 ] 0.0.0.0 58.210.137.194 POST /home/index/add.html
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'mysql171009dcd2'@'43.248.139.66' (using password: YES)
+---------------------------------------------------------------
+[ 2017-10-09T11:04:27+08:00 ] 0.0.0.0 58.210.137.194 GET /
+[ info ] easydai.site/ [运行时间：0.060932s][吞吐率：16.41req/s] [内存消耗：571.51kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:04:28+08:00 ] 0.0.0.0 101.226.233.143 GET /
+[ info ] easydai.site/ [运行时间：0.048896s][吞吐率：20.45req/s] [内存消耗：570.22kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:04:38+08:00 ] 0.0.0.0 58.210.137.194 POST /home/index/add.html
+[ info ] easydai.site/home/index/add.html [运行时间：0.052743s][吞吐率：18.96req/s] [内存消耗：305.59kb] [文件加载：41]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '50',
+  'x-rewrite-url' => '/home/index/add.html',
+  'origin' => 'http://easydai.site',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400',
+  'referer' => 'http://easydai.site/',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'mysql171009dcd2'@'43.248.139.66' (using password: YES)[E:\wwwroot\host707202214\wwwroot\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2017-10-09T11:04:47+08:00 ] 0.0.0.0 101.226.233.153 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.049547s][吞吐率：20.18req/s] [内存消耗：570.97kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:04:47+08:00 ] 0.0.0.0 117.136.67.177 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.047935s][吞吐率：20.86req/s] [内存消耗：571.61kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:05:02+08:00 ] 0.0.0.0 117.136.67.177 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.049844s][吞吐率：20.06req/s] [内存消耗：571.61kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:05:03+08:00 ] 0.0.0.0 101.226.233.148 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.052781s][吞吐率：18.95req/s] [内存消耗：570.97kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:05:26+08:00 ] 0.0.0.0 117.136.67.177 POST /home/index/add.html
+[ info ] easydai.site/home/index/add.html [运行时间：0.048581s][吞吐率：20.58req/s] [内存消耗：305.23kb] [文件加载：41]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '50',
+  'x-rewrite-url' => '/home/index/add.html',
+  'origin' => 'http://easydai.site',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'referer' => 'http://easydai.site/?from=singlemessage&isappinstalled=0',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'name' => '张倩倩',
+  'phone' => '17601499725',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'mysql171009dcd2'@'43.248.139.66' (using password: YES)[E:\wwwroot\host707202214\wwwroot\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2017-10-09T11:05:26+08:00 ] 0.0.0.0 101.226.233.141 GET /home/index/add.html
+[ info ] easydai.site/home/index/add.html [运行时间：0.029329s][吞吐率：34.10req/s] [内存消耗：176.53kb] [文件加载：35]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/index/add.html',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-09T11:06:08+08:00 ] 0.0.0.0 58.210.137.194 GET /
+[ info ] easydai.site/ [运行时间：0.049784s][吞吐率：20.09req/s] [内存消耗：571.52kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:06:08+08:00 ] 0.0.0.0 101.226.233.141 GET /
+[ info ] easydai.site/ [运行时间：0.048493s][吞吐率：20.62req/s] [内存消耗：570.22kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T03:06:17+00:00 ] 0.0.0.0 58.210.137.194 POST /home/index/add.html
+[ info ] easydai.site/home/index/add.html [运行时间：0.275857s][吞吐率：3.63req/s] [内存消耗：807.95kb] [文件加载：61]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '50',
+  'x-rewrite-url' => '/home/index/add.html',
+  'origin' => 'http://easydai.site',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400',
+  'referer' => 'http://easydai.site/',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/admin\view\public\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019174s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.016485s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002296s ]
+---------------------------------------------------------------
+[ 2017-10-09T11:06:20+08:00 ] 0.0.0.0 58.210.137.194 GET /home/index/index.html
+[ info ] easydai.site/home/index/index.html [运行时间：0.049755s][吞吐率：20.10req/s] [内存消耗：565.63kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400',
+  'referer' => 'http://easydai.site/home/index/add.html',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:06:28+08:00 ] 0.0.0.0 117.136.67.177 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.059414s][吞吐率：16.83req/s] [内存消耗：571.61kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:06:28+08:00 ] 0.0.0.0 101.226.233.155 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.049285s][吞吐率：20.29req/s] [内存消耗：570.97kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:06:37+08:00 ] 0.0.0.0 117.185.27.115 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.050048s][吞吐率：19.98req/s] [内存消耗：571.90kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI ALE-CL00 Build/HuaweiALE-CL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T03:06:45+00:00 ] 0.0.0.0 117.136.67.177 POST /home/index/add.html
+[ info ] easydai.site/home/index/add.html [运行时间：0.139399s][吞吐率：7.17req/s] [内存消耗：777.30kb] [文件加载：59]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '41',
+  'x-rewrite-url' => '/home/index/add.html',
+  'origin' => 'http://easydai.site',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'referer' => 'http://easydai.site/?from=singlemessage&isappinstalled=0',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'name' => '张倩',
+  'phone' => '17601499725',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/admin\view\public\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011791s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.016037s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('张倩' , '17601499725') [ RunTime:0.001848s ]
+---------------------------------------------------------------
+[ 2017-10-09T11:06:48+08:00 ] 0.0.0.0 117.136.67.177 GET /home/index/index.html
+[ info ] easydai.site/home/index/index.html [运行时间：0.049031s][吞吐率：20.40req/s] [内存消耗：565.24kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'referer' => 'http://easydai.site/home/index/add.html',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:06:48+08:00 ] 0.0.0.0 101.226.233.151 GET /home/index/index.html
+[ info ] easydai.site/home/index/index.html [运行时间：0.049526s][吞吐率：20.19req/s] [内存消耗：564.38kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/index/index.html',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:07:17+08:00 ] 0.0.0.0 101.226.233.146 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.054529s][吞吐率：18.34req/s] [内存消耗：570.97kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:07:17+08:00 ] 0.0.0.0 117.136.67.177 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.062430s][吞吐率：16.02req/s] [内存消耗：571.60kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 MicroMessenger/6.5.18 NetType/4G Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T11:08:17+08:00 ] 0.0.0.0 101.226.233.158 GET /home/index/add.html
+[ info ] easydai.site/home/index/add.html [运行时间：0.029179s][吞吐率：34.27req/s] [内存消耗：174.98kb] [文件加载：35]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/index/add.html',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML; like Gecko) Mobile/12F70 MicroMessenger/6.1.5 NetType/WIFI',
+  'host' => 'easydai.site',
+  'accept' => '*/*',
+  'pragma' => 'no-cache',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-09T11:08:30+08:00 ] 0.0.0.0 101.226.102.126 GET /?from=singlemessage&isappinstalled=0
+[ info ] easydai.site/?from=singlemessage&isappinstalled=0 [运行时间：0.053190s][吞吐率：18.80req/s] [内存消耗：572.67kb] [文件加载：37]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/?from=singlemessage&isappinstalled=0',
+  'x-forwarded-for' => '61.177.38.158',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043520 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/WIFI Language/zh_CN',
+  'host' => 'easydai.site',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/wxpic,image/sharpp,*/*;q=0.8',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+  'from' => 'singlemessage',
+  'isappinstalled' => '0',
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Index.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-09T03:08:56+00:00 ] 0.0.0.0 58.210.137.194 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017358s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.015565s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.001741s ]
+---------------------------------------------------------------
+[ 2017-10-09T11:16:30+08:00 ] 0.0.0.0 117.185.27.115 GET /home/index/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-09T11:45:58+08:00 ] 0.0.0.0 58.210.137.194 POST /admin/index/login.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014466s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_admin` [ RunTime:0.016976s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_admin` WHERE  `username` = 'admin' LIMIT 1 [ RunTime:0.002711s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_action` [ RunTime:0.015931s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_action` WHERE  `name` = 'user_login' LIMIT 1 [ RunTime:0.002829s ]
+[ error ] [8]unserialize(): Error at offset 0 of 8 bytes
+---------------------------------------------------------------
+[ 2017-10-09T03:48:50+00:00 ] 0.0.0.0 61.177.38.158 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007985s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.017298s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('王丽萍' , '15190101912') [ RunTime:0.002170s ]

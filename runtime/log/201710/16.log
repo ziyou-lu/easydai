@@ -1,0 +1,31 @@
+---------------------------------------------------------------
+[ 2017-10-16T01:20:55+00:00 ] 0.0.0.0 61.177.38.158 POST /home/shixubing/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006821s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_shixubing` [ RunTime:0.018071s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_shixubing` (`name` , `phone`) VALUES ('卧槽尼玛' , '18888888888') [ RunTime:0.002636s ]
+---------------------------------------------------------------
+[ 2017-10-16T01:22:35+00:00 ] 0.0.0.0 61.177.38.158 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008304s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.017413s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('卧槽尼玛' , '18888888888') [ RunTime:0.002199s ]
+---------------------------------------------------------------
+[ 2017-10-16T09:22:57+08:00 ] 0.0.0.0 101.226.125.104 GET /home/guoyanping/add.html
+[ error ] [8]未定义数组索引: name
+---------------------------------------------------------------
+[ 2017-10-16T01:23:14+00:00 ] 0.0.0.0 61.177.38.158 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005837s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.015871s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('我也是醉了' , '16666666666') [ RunTime:0.001701s ]
+---------------------------------------------------------------
+[ 2017-10-16T01:41:27+00:00 ] 0.0.0.0 117.136.67.89 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006166s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.016934s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('王建飞' , '15062308859') [ RunTime:0.002316s ]
+---------------------------------------------------------------
+[ 2017-10-16T15:48:59+08:00 ] 0.0.0.0 165.227.67.242 HEAD /
+[ error ] [8]未定义数组索引: HTTP_HOST
+---------------------------------------------------------------
+[ 2017-10-16T23:15:07+00:00 ] 0.0.0.0 101.226.125.114 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019018s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.018384s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('金宏星' , '13218461825') [ RunTime:0.002294s ]

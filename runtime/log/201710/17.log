@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2017-10-17T01:48:55+00:00 ] 0.0.0.0 101.226.125.121 POST /home/guoyanping/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015772s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_guoyanping` [ RunTime:0.017230s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_guoyanping` (`name` , `phone`) VALUES ('廖荣成' , '13913560627') [ RunTime:0.002104s ]
+---------------------------------------------------------------
+[ 2017-10-17T09:53:38+08:00 ] 0.0.0.0 116.70.2.97 HEAD /
+[ error ] [8]未定义数组索引: HTTP_HOST
+---------------------------------------------------------------
+[ 2017-10-17T03:03:59+00:00 ] 0.0.0.0 223.104.4.241 POST /home/shixubing/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015050s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_shixubing` [ RunTime:0.016739s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_shixubing` (`name` , `phone`) VALUES ('史旭冰' , '13285193427') [ RunTime:0.002559s ]
+---------------------------------------------------------------
+[ 2017-10-17T12:35:33+08:00 ] 0.0.0.0 58.218.196.203 HEAD /
+[ error ] [8]未定义数组索引: HTTP_HOST

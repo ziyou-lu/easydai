@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+.main_top{
+	height: 400px;
+	background: #949494;
+}
+
+.mar-top{
+	margin-top: 50px;
+}
+
+.main_bottom{
+	text-align: center;
+	margin-top: 5px;
+	padding-bottom: 60px;
+}
+
+.bor-top{
+	border-top: 1px solid #ADADAD;
+	border-bottom: 1px solid #ADADAD;
+}
+
+.consult{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+
+.consult h5,h6{
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+.knowlege{
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.form_first{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.form_margin{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.form_group
+{
+	margin-bottom: 20px;
+}
+
+.footer{
+
+	height:10px;
+	border-top: 1px solid #e7e7e7;
+	text-align: center;	
+}
+
+.form_success_tip{
+	height: 400px;
+}
+
+.form_success_tip .tip{
+	margin-top: 50px;
+}
+.form_success_tip span{
+	color: red;
+}
+.form_success_tip a{
+	color: blue;
+}

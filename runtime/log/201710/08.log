@@ -1,0 +1,3403 @@
+---------------------------------------------------------------
+[ 2017-10-08T02:53:10+08:00 ] 47.90.41.40 34.248.218.34 GET /
+[ info ] wedai.top/ [运行时间：0.022406s][吞吐率：44.63req/s] [内存消耗：1,944.62kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T06:58:30+08:00 ] 47.90.41.40 140.205.205.5 GET /
+[ info ] wedai.top/ [运行时间：0.033274s][吞吐率：30.05req/s] [内存消耗：1,945.34kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'en',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T08:26:17+08:00 ] 47.90.41.40 172.241.151.27 HEAD /
+[ info ] wedai.top/ [运行时间：0.024662s][吞吐率：40.55req/s] [内存消耗：1,944.74kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'host' => 'wedai.top',
+  'referer' => 'http://uptime-gamma.net/wedai.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T14:01:43+08:00 ] 47.90.41.40 106.11.225.228 GET /
+[ info ] wedai.top/ [运行时间：0.022875s][吞吐率：43.72req/s] [内存消耗：1,946.05kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'accept-encoding' => 'gzip',
+  'cache-control' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'pragma' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:03:16+08:00 ] 47.90.41.40 140.205.205.5 GET /
+[ info ] wedai.top/ [运行时间：0.022685s][吞吐率：44.08req/s] [内存消耗：1,945.48kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'en',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:25:58+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.027997s][吞吐率：35.72req/s] [内存消耗：2,154.09kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; monitor_count=30',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:26:09+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.073286s][吞吐率：13.65req/s] [内存消耗：3,240.52kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; monitor_count=31; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026721s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002882s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002351s ]
+---------------------------------------------------------------
+[ 2017-10-08T16:26:09+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.035465s][吞吐率：28.20req/s] [内存消耗：2,619.64kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; monitor_count=31; thinkphp_show_page_trace=0|0; PHPSESSID=t583nh4nklnkcgf85fqacrgef6',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: _URL_[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:30:57+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.026125s][吞吐率：38.28req/s] [内存消耗：2,154.31kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; thinkphp_show_page_trace=0|0; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=32',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:31:02+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.043628s][吞吐率：22.92req/s] [内存消耗：3,240.51kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=33; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004733s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002604s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002374s ]
+---------------------------------------------------------------
+[ 2017-10-08T16:31:02+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.037300s][吞吐率：26.81req/s] [内存消耗：2,619.55kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=33; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: _URL_[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:36:30+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.036556s][吞吐率：27.36req/s] [内存消耗：2,626.53kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=34',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined function app\home\controller\_param()[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:38:10+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.036976s][吞吐率：27.04req/s] [内存消耗：2,626.59kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=35',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\home\controller\Phone::_param()[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:40:34+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.023241s][吞吐率：43.03req/s] [内存消耗：1,563.53kb] [文件加载：32]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=36',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected '['[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:40:51+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.043216s][吞吐率：23.14req/s] [内存消耗：2,619.09kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=37',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:42:40+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.035972s][吞吐率：27.80req/s] [内存消耗：2,619.08kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=38',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:49:46+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.023562s][吞吐率：42.44req/s] [内存消耗：1,947.30kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=39',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:49:50+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.045411s][吞吐率：22.02req/s] [内存消耗：3,241.12kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=40; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006279s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003271s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002746s ]
+---------------------------------------------------------------
+[ 2017-10-08T16:49:50+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.039006s][吞吐率：25.64req/s] [内存消耗：2,619.51kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=40; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:50:52+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.045998s][吞吐率：21.74req/s] [内存消耗：2,618.21kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=41',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:51:03+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.049333s][吞吐率：20.27req/s] [内存消耗：3,241.35kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=43; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007397s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004224s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003701s ]
+---------------------------------------------------------------
+[ 2017-10-08T16:51:03+08:00 ] 47.90.41.40 117.81.115.246 GET /home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html
+[ info ] wedai.top/home/phone/index/name/%E5%8D%A2%E6%97%BA%E8%BE%BE/phone/18862314569.html [运行时间：0.035970s][吞吐率：27.80req/s] [内存消耗：2,618.70kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'phone',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=43; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Phone->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Phone.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:54:09+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.062189s][吞吐率：16.08req/s] [内存消耗：3,240.05kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=45; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006458s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004972s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.004342s ]
+[ error ] [1]Call to undefined function app\home\controller\sendMsg()[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:27]
+---------------------------------------------------------------
+[ 2017-10-08T16:55:15+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.027074s][吞吐率：36.94req/s] [内存消耗：1,925.38kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=46',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:24]
+---------------------------------------------------------------
+[ 2017-10-08T16:55:20+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.063628s][吞吐率：15.72req/s] [内存消耗：3,240.17kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=48; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005717s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002841s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003236s ]
+[ error ] [1]Call to undefined function app\home\controller\sendMsg()[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:27]
+---------------------------------------------------------------
+[ 2017-10-08T16:55:32+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.060155s][吞吐率：16.62req/s] [内存消耗：3,282.30kb] [文件加载：46]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=50; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/public/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006422s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003976s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003265s ]
+[ sql ] [ SQL ] SELECT * FROM `szdk_customer` `a` WHERE  (  a.phone='18862314569' ) [ RunTime:0.003404s ]
+---------------------------------------------------------------
+[ 2017-10-08T16:55:35+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/index.html
+[ info ] wedai.top/home/index/index.html [运行时间：0.021892s][吞吐率：45.68req/s] [内存消耗：1,963.04kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=51',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/add.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:55:50+08:00 ] 47.90.41.40 117.81.115.246 GET /admin
+[ info ] wedai.top/admin [运行时间：0.025034s][吞吐率：39.95req/s] [内存消耗：2,062.77kb] [文件加载：43]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=52',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/public/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:55:53+08:00 ] 47.90.41.40 117.81.115.246 GET /admin/index/login.html
+[ info ] wedai.top/admin/index/login.html [运行时间：0.025865s][吞吐率：38.66req/s] [内存消耗：2,250.59kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN',
+  'connection' => 'Keep-Alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=53; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/admin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ /data/home/xyu3066030001/htdocs/apps/admin/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:55:54+08:00 ] 47.90.41.40 117.81.115.246 GET /admin/index/getverify.html
+[ info ] wedai.top/admin/index/getverify.html [运行时间：0.422484s][吞吐率：2.37req/s] [内存消耗：2,044.36kb] [文件加载：41]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'getverify',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN',
+  'connection' => 'Keep-Alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=53; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/admin/index/login.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\admin\controller\Index->getVerify[ /data/home/xyu3066030001/htdocs/apps/admin/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:03+08:00 ] 47.90.41.40 106.120.161.68 GET /home/index/index.html
+[ info ] wedai.top/home/index/index.html [运行时间：0.021965s][吞吐率：45.53req/s] [内存消耗：1,960.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'close',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/index.html',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:15+08:00 ] 47.90.41.40 101.199.108.56 GET /home/index/index.html
+[ info ] wedai.top/home/index/index.html [运行时间：0.022206s][吞吐率：45.03req/s] [内存消耗：1,960.52kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:25+08:00 ] 47.90.41.40 106.120.161.68 GET /admin
+[ info ] wedai.top/admin [运行时间：0.024828s][吞吐率：40.28req/s] [内存消耗：2,060.73kb] [文件加载：43]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'close',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/admin',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/public/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:36+08:00 ] 47.90.41.40 101.199.108.53 GET /admin
+[ info ] wedai.top/admin [运行时间：0.024975s][吞吐率：40.04req/s] [内存消耗：2,060.81kb] [文件加载：43]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/public/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:39+08:00 ] 47.90.41.40 101.199.108.53 GET /admin/index/login.html
+[ info ] wedai.top/admin/index/login.html [运行时间：0.024296s][吞吐率：41.16req/s] [内存消耗：2,054.80kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'en-us,en',
+  'connection' => 'keep-alive',
+  'cookie' => 'PHPSESSID=5m02idqlf7fag1qhtav87brpc6; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/admin',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ RUN ] app\admin\controller\Index->login[ /data/home/xyu3066030001/htdocs/apps/admin/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:44+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.022990s][吞吐率：43.50req/s] [内存消耗：1,953.67kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=53; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:56:49+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.063476s][吞吐率：15.75req/s] [内存消耗：3,240.19kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=54; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010146s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004677s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.005285s ]
+[ error ] [1]Class 'app\home\controller\DefaultProfile' not found[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:59]
+---------------------------------------------------------------
+[ 2017-10-08T16:57:22+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.023202s][吞吐率：43.10req/s] [内存消耗：1,953.67kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=55',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T16:57:25+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.059776s][吞吐率：16.73req/s] [内存消耗：3,240.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=56; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006554s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003529s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002729s ]
+[ error ] [1]Class 'app\home\controller\DefaultProfile' not found[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:59]
+---------------------------------------------------------------
+[ 2017-10-08T16:58:41+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.055707s][吞吐率：17.95req/s] [内存消耗：3,240.16kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=58; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006205s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003616s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003266s ]
+[ error ] [1]Class 'app\home\controller\DefaultProfile' not found[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:59]
+---------------------------------------------------------------
+[ 2017-10-08T16:59:49+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.064513s][吞吐率：15.50req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=60; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007562s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004573s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.004023s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T17:00:01+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.022913s][吞吐率：43.64req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=61',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T17:00:05+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.060983s][吞吐率：16.40req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=62; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009792s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003440s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.004291s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T17:02:15+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.064382s][吞吐率：15.53req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=64; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006679s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004434s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003947s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T19:34:15+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.021939s][吞吐率：45.58req/s] [内存消耗：1,952.99kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'connection' => 'keep-alive',
+  'dnt' => '1',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A402 Safari/604.1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T19:34:28+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.080411s][吞吐率：12.44req/s] [内存消耗：3,240.31kb] [文件加载：47]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'dnt' => '1',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A402 Safari/604.1',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025147s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003610s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003963s ]
+[ error ] [1]Class 'Aliyun\Core\Profile\DefaultProfile' not found[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:63]
+---------------------------------------------------------------
+[ 2017-10-08T19:45:22+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.027242s][吞吐率：36.71req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=65',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T19:45:29+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.067182s][吞吐率：14.88req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=66; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007852s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004935s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.004143s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T19:48:43+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.025950s][吞吐率：38.54req/s] [内存消耗：1,924.93kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=67',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:28]
+---------------------------------------------------------------
+[ 2017-10-08T19:48:49+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.058534s][吞吐率：17.08req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=69; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008287s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003986s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003696s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T20:20:59+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.054863s][吞吐率：18.23req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=71; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005643s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003243s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002758s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T20:21:30+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.052050s][吞吐率：19.21req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=73; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005598s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002966s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002565s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T20:21:36+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.022935s][吞吐率：43.60req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=74',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T20:21:41+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.058350s][吞吐率：17.14req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=75; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006184s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003498s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002938s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T20:22:26+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.023180s][吞吐率：43.14req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=76',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T20:22:30+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.059974s][吞吐率：16.67req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=77; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006454s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003806s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003449s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T21:58:44+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.023623s][吞吐率：42.33req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=78',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T21:58:48+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.077232s][吞吐率：12.95req/s] [内存消耗：3,421.70kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=79; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022992s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002976s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002111s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:11:24+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.023670s][吞吐率：42.25req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=80',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:11:33+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.058410s][吞吐率：17.12req/s] [内存消耗：3,422.16kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=81; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006845s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004007s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003453s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:13:20+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.093055s][吞吐率：10.75req/s] [内存消耗：3,422.45kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=83; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008963s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003840s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003443s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:15:06+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.057931s][吞吐率：17.26req/s] [内存消耗：3,422.44kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=85; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004951s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002549s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002105s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:17:31+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.059392s][吞吐率：16.84req/s] [内存消耗：3,422.44kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=87; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004742s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003025s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002790s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:18:05+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.021987s][吞吐率：45.48req/s] [内存消耗：1,953.54kb] [文件加载：38]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=88',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:18:11+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.057421s][吞吐率：17.42req/s] [内存消耗：3,424.03kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=89; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004602s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002552s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002158s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:22:52+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.035477s][吞吐率：28.19req/s] [内存消耗：2,652.29kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=90',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:22:56+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.056728s][吞吐率：17.63req/s] [内存消耗：3,424.32kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=91; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006465s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003394s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002942s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:26:34+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.036341s][吞吐率：27.52req/s] [内存消耗：2,148.10kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=92',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [4096]Object of class Aliyun\Core\Regions\Endpoint could not be converted to string[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/Regions/EndpointProvider.php:74]
+---------------------------------------------------------------
+[ 2017-10-08T22:28:17+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.035574s][吞吐率：28.11req/s] [内存消耗：4,388.48kb] [文件加载：44]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=93; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Cannot access private property Aliyun\Core\Regions\Endpoint::$name[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/Regions/EndpointProvider.php:74]
+---------------------------------------------------------------
+[ 2017-10-08T22:29:01+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.039520s][吞吐率：25.30req/s] [内存消耗：2,653.74kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=94; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:30:31+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.032943s][吞吐率：30.36req/s] [内存消耗：2,653.56kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=95; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:30:36+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.057799s][吞吐率：17.30req/s] [内存消耗：3,425.34kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=96; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006479s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003773s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003525s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:32:07+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.033156s][吞吐率：30.16req/s] [内存消耗：2,653.27kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=97',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:32:12+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.055884s][吞吐率：17.89req/s] [内存消耗：3,425.52kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=98; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004740s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002752s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002116s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:34:35+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.033096s][吞吐率：30.22req/s] [内存消耗：2,653.69kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=99',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:34:43+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.058389s][吞吐率：17.13req/s] [内存消耗：3,425.76kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=100; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005854s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003696s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002998s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:35:45+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.027209s][吞吐率：36.75req/s] [内存消耗：1,925.02kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=101',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T22:35:49+08:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.057067s][吞吐率：17.52req/s] [内存消耗：3,425.76kb] [文件加载：59]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=103; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005386s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002823s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002560s ]
+[ error ] [0]Can not find endpoint to access.[/data/home/xyu3066030001/htdocs/extend/Aliyun/Core/DefaultAcsClient.php:51]
+---------------------------------------------------------------
+[ 2017-10-08T22:37:27+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.033382s][吞吐率：29.96req/s] [内存消耗：2,653.81kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=104',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T14:37:34+00:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.323005s][吞吐率：3.10req/s] [内存消耗：4,147.86kb] [文件加载：63]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=105; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006610s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.003994s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003433s ]
+[ error ] [1]Call to undefined function app\home\controller\arrar()[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:84]
+---------------------------------------------------------------
+[ 2017-10-08T22:38:22+08:00 ] 47.90.41.40 106.120.160.109 GET /
+[ info ] wedai.top/ [运行时间：0.039098s][吞吐率：25.58req/s] [内存消耗：2,652.80kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'close',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:38:30+08:00 ] 47.90.41.40 220.181.132.195 GET /
+[ info ] wedai.top/ [运行时间：0.033616s][吞吐率：29.75req/s] [内存消耗：2,652.97kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:38:39+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.035399s][吞吐率：28.25req/s] [内存消耗：2,653.77kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=106',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T14:38:43+00:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.151819s][吞吐率：6.59req/s] [内存消耗：4,150.45kb] [文件加载：60]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=107; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004738s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.002429s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.001873s ]
+---------------------------------------------------------------
+[ 2017-10-08T22:38:43+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/index.html
+[ info ] wedai.top/home/index/index.html [运行时间：0.042180s][吞吐率：23.71req/s] [内存消耗：2,662.91kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=107; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:39:46+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.035846s][吞吐率：27.90req/s] [内存消耗：2,653.77kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=108',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T14:39:50+00:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.181195s][吞吐率：5.52req/s] [内存消耗：4,179.66kb] [文件加载：62]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=109; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '卢旺达',
+  'phone' => '18862314569',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/public/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007111s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004687s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.003273s ]
+---------------------------------------------------------------
+[ 2017-10-08T22:39:54+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/index.html
+[ info ] wedai.top/home/index/index.html [运行时间：0.035657s][吞吐率：28.04req/s] [内存消耗：2,662.58kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=110',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/add.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:41:06+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.034631s][吞吐率：28.88req/s] [内存消耗：2,650.37kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=111',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:42:08+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.034345s][吞吐率：29.12req/s] [内存消耗：2,650.55kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => '__guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=112; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T14:42:33+00:00 ] 47.90.41.40 117.81.115.246 POST /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.174150s][吞吐率：5.74req/s] [内存消耗：4,176.45kb] [文件加载：62]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '50',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; monitor_count=113; thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'origin' => 'http://wedai.top',
+  'referer' => 'http://wedai.top/',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+  'name' => '张倩倩',
+  'phone' => '13952412600',
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/admin/view/public/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006784s ] mysql:dbname=xdm303384203_db;host=xdm303384203.my3w.com;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.004439s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('张倩倩' , '13952412600') [ RunTime:0.003434s ]
+---------------------------------------------------------------
+[ 2017-10-08T22:42:37+08:00 ] 47.90.41.40 117.81.115.246 GET /home/index/index.html
+[ info ] wedai.top/home/index/index.html [运行时间：0.032514s][吞吐率：30.76req/s] [内存消耗：2,659.33kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0; __guid=47135393.656878633021118600.1504972710224.9712; PHPSESSID=t583nh4nklnkcgf85fqacrgef6; thinkphp_show_page_trace=0|0; monitor_count=114',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/add.html',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T22:43:12+08:00 ] 47.90.41.40 106.120.161.68 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.025183s][吞吐率：39.71req/s] [内存消耗：1,923.13kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'close',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/add.html',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:30:54+08:00 ] 47.90.41.40 117.81.115.246 GET /
+[ info ] wedai.top/ [运行时间：0.034290s][吞吐率：29.16req/s] [内存消耗：2,649.88kb] [文件加载：42]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-cn',
+  'connection' => 'keep-alive',
+  'dnt' => '1',
+  'host' => 'wedai.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A402 Safari/604.1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->index[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ VIEW ] /data/home/xyu3066030001/htdocs/apps/home/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-08T23:44:02+08:00 ] 47.90.41.40 182.118.20.157 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.023882s][吞吐率：41.87req/s] [内存消耗：1,924.51kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=259200',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/add.html',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+  'x-forwarded-for' => 'unknown',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:44:03+08:00 ] 47.90.41.40 171.13.14.146 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.023404s][吞吐率：42.73req/s] [内存消耗：1,924.51kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'identity',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=259200',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'referer' => 'http://wedai.top/home/index/add.html',
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)',
+  'x-forwarded-for' => 'unknown',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:44:13+08:00 ] 47.90.41.40 101.199.108.58 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.025420s][吞吐率：39.34req/s] [内存消耗：1,923.25kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:44:47+08:00 ] 47.90.41.40 171.13.14.149 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.024792s][吞吐率：40.34req/s] [内存消耗：1,924.62kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=259200',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+  'x-forwarded-for' => 'unknown',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:44:47+08:00 ] 47.90.41.40 171.13.14.149 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.024505s][吞吐率：40.81req/s] [内存消耗：1,925.10kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+  'x-forwarded-for' => 'unknown',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:44:51+08:00 ] 47.90.41.40 171.13.14.133 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.025479s][吞吐率：39.25req/s] [内存消耗：1,924.62kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=259200',
+  'connection' => 'keep-alive',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+  'x-forwarded-for' => 'unknown',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]
+---------------------------------------------------------------
+[ 2017-10-08T23:44:51+08:00 ] 47.90.41.40 171.13.14.133 GET /home/index/add.html
+[ info ] wedai.top/home/index/add.html [运行时间：0.024970s][吞吐率：40.05req/s] [内存消耗：1,925.10kb] [文件加载：40]
+[ info ] [ LANG ] /data/home/xyu3066030001/htdocs/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'index',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'accept-charset' => 'iso-8859-1,*,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'host' => 'wedai.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36',
+  'x-forwarded-for' => 'unknown',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Index->add[ /data/home/xyu3066030001/htdocs/apps/home/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: name[/data/home/xyu3066030001/htdocs/apps/home/controller/Index.php:29]

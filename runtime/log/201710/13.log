@@ -1,0 +1,87 @@
+---------------------------------------------------------------
+[ 2017-10-13T23:56:33+08:00 ] 0.0.0.0 117.81.114.215 GET /Shixubing
+[ info ] easydai.site/Shixubing [运行时间：0.051053s][吞吐率：19.59req/s] [内存消耗：143.94kb] [文件加载：31]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Shixubing',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/Shixubing',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=4',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-13T23:56:53+08:00 ] 0.0.0.0 117.81.114.215 GET /home/Shixubing
+[ info ] easydai.site/home/Shixubing [运行时间：0.097203s][吞吐率：10.29req/s] [内存消耗：642.29kb] [文件加载：44]
+[ info ] [ LANG ] E:\wwwroot\host707202214\wwwroot\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'home',
+    1 => 'Shixubing',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '0',
+  'x-rewrite-url' => '/home/Shixubing',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+  'host' => 'easydai.site',
+  'cookie' => '__guid=231498763.4020816505819521500.1507646347310.132; monitor_count=5; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\home\controller\Shixubing->index[ E:\wwwroot\host707202214\wwwroot\apps\home\controller\Shixubing.php ]
+[ info ] [ VIEW ] E:\wwwroot\host707202214\wwwroot/apps/home\view\shixubing\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-13T15:57:29+00:00 ] 0.0.0.0 117.81.114.215 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021470s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.016664s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002412s ]
+---------------------------------------------------------------
+[ 2017-10-13T16:03:22+00:00 ] 0.0.0.0 117.81.114.215 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017269s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.016611s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002556s ]
+---------------------------------------------------------------
+[ 2017-10-13T16:06:30+00:00 ] 0.0.0.0 117.81.114.215 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013821s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.015692s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.001771s ]
+---------------------------------------------------------------
+[ 2017-10-13T16:08:23+00:00 ] 0.0.0.0 117.81.114.215 POST /home/index/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013997s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_customer` [ RunTime:0.015633s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_customer` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002276s ]
+---------------------------------------------------------------
+[ 2017-10-13T16:11:55+00:00 ] 0.0.0.0 117.81.114.215 POST /home/shixubing/add.html
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005031s ] mysql:dbname=mysql171009dcd2_db;host=43.248.133.155;port=3306;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `szdk_shixubing` [ RunTime:0.015942s ]
+[ sql ] [ SQL ] INSERT INTO `szdk_shixubing` (`name` , `phone`) VALUES ('卢旺达' , '18862314569') [ RunTime:0.002347s ]
